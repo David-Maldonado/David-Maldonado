@@ -41,7 +41,6 @@
 
 ### 🔗 Connect with me:
 <p align="left">
-  <a href="https://dev.to/davidmaldonado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="davidmaldonado" height="30" width="40" /></a>
   <a href="https://twitter.com/dmaldg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dmaldg" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/david-maldonado-02b44514b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david-maldonado-02b44514b" height="30" width="40" /></a>
 </p>
